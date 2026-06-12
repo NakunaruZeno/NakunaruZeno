@@ -16,10 +16,10 @@
 <br />
 
 ### 🚀 自己紹介
-- 🎓 **学歴:** ベトナム国家大学ホーチミン市校 情報通信大学 (UIT) 情報技術学科 OEP学部 在学（3年生 / 2028年10月卒業予定）
-- 💡 **私の強み:** 「論理的な思考力」と「ITを課題解決に応用する実行力」。単にコードを書くのではなく、ユーザー視点に立ち、身近な不便さをどう技術で解決するかを常に考えています。
-- 🎯 **現在の目標:** フロントエンドからバックエンドまでの確かな技術力を磨き、将来的にUI/UXの視点を活かしたサービスの企画・提案から開発までを牽引すること。
-- 🗣️ **語学力:** ベトナム語 (母国語), 英語 (ビジネスレベル), 日本語 (初級 - 『みんなの日本語』第50課修了 / N4・N3レベル).
+- **学歴:** ベトナム国家大学ホーチミン市校 情報通信大学 (UIT) 情報技術学科 OEP学部 在学（3年生 / 2028年10月卒業予定）
+- **私の強み:** 「論理的な思考力」と「ITを課題解決に応用する実行力」。単にコードを書くのではなく、ユーザー視点に立ち、身近な不便さをどう技術で解決するかを常に考えています。
+- **現在の目標:** フロントエンドからバックエンドまでの確かな技術力を磨き、将来的にUI/UXの視点を活かしたサービスの企画・提案から開発までを牽引すること。
+- **語学力:** ベトナム語 (母国語), 英語 (ビジネスレベル), 日本語 (初級 - 『みんなの日本語』第50課修了 / N4・N3レベル).
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### 💻 成果物・主要プロジェクト (Featured Projects)
 
-#### 📱 1. Forge & Furnish — モバイルAR空間一体型コマースアプリ
+#### 1. Forge & Furnish — モバイルAR空間一体型コマースアプリ
 *最先端の生成AI技術と空間コンピューティング（AR）を掛け合わせ、インテリア選択の「サイズ感や配置の不安」を解消する次世代シミュレーター。*
 - **プロジェクト説明:** Reality世界の平面を正確にスキャンし、1:1スケールでの家具配置を実現。さらに生成AI（プロンプト入力）によって独自の3Dカスタムモデル（.glb）をその場で即座に生成・配置できる革新的なインテリアアプリ。
 - **開発期間 / 体制:** 5か月 / 単独開発者 (Solo Developer)
@@ -47,7 +47,7 @@
 - **使用技術:** JavaScript, React, PostgreSQL, Prisma, AWS S3, Git, Agile
 - **🔗 [リポジトリへのリンク](https://github.com/NakunaruZeno/forge-and-furnish)**
 
-#### 🌐 2. UIT One For All — 大学ウェブサイト自動化ブラウザ拡張機能
+#### 2. UIT One For All — 大学ウェブサイト自動化ブラウザ拡張機能
 *大学内の各種ポータルサイトにおける面倒な反復作業を自動化し、学生生活の利便性を劇的に向上させるオールインワンツール。*
 - **プロジェクト説明:** Manifest V3に準拠したChrome/Edge向け拡張機能。LMS等への自動ログイン（Captcha自動解析・入力）、成績のバックグラウンド自動チェックとリアルタイム通知、Excelからのドラッグ＆ドロップによる時間割シミュレーション、履修登録サイトでのミリ秒単位カウントダウン自動科目選択支援機能を搭載。
 - **開発期間 / 体制:** 2か月 / 単独開発者 (Solo Developer)
@@ -67,10 +67,10 @@
 <br />
 
 ### 🚀 About Me
-- 🎓 **Education:** IT Student at University of Information Technology (UIT, VNU-HCM) | Faculty of OEP (3rd Year, Graduating Oct 2028)
-- 💡 **My Strength:** Strong logical thinking and the execution power to apply IT to practical problem-solving. I focus on understanding user needs and transforming complex real-world inconveniences into elegant software solutions.
-- 🎯 **Career Goal:** To master both frontend and backend development, and leverage my UI/UX insights to lead projects from conception and planning to final deployment.
-- 🗣️ **Languages:** Vietnamese (Native), English (Business Level), Japanese (Elementary - Completed Minna no Nihongo Lesson 50 / Equivalent to N4-N3).
+- **Education:** IT Student at University of Information Technology (UIT, VNU-HCM) | Faculty of OEP (3rd Year, Graduating Oct 2028)
+- **My Strength:** Strong logical thinking and the execution power to apply IT to practical problem-solving. I focus on understanding user needs and transforming complex real-world inconveniences into elegant software solutions.
+- **Career Goal:** To master both frontend and backend development, and leverage my UI/UX insights to lead projects from conception and planning to final deployment.
+- **Languages:** Vietnamese (Native), English (Business Level), Japanese (Elementary - Completed Minna no Nihongo Lesson 50 / Equivalent to N4-N3).
 
 ---
 
@@ -90,7 +90,7 @@
 
 ### 💻 Featured Projects
 
-#### 📱 1. Forge & Furnish — Mobile AR Spatial E-commerce App
+#### 1. Forge & Furnish — Mobile AR Spatial E-commerce App
 *A next-generation spatial computing simulator that integrates Generative AI and AR technology to eliminate user anxiety regarding furniture dimensions and indoor placement.*
 - **Project Description:** Implements real-time 1:1 scale furniture placement based on precise environment plane detection. Features an innovative Generative AI system where users can instantly generate and place custom 3D models (.glb) in their room using natural language prompts.
 - **Duration / Team Size:** 5 Months / Solo Developer
@@ -98,7 +98,7 @@
 - **Tech Stack:** JavaScript, React, PostgreSQL, Prisma, AWS S3, Git, Agile
 - **🔗 [Link to Repository](https://github.com/NakunaruZeno/forge-and-furnish)**
 
-#### 🌐 2. UIT One For All — All-in-One Browser Extension for Students
+#### 2. UIT One For All — All-in-One Browser Extension for Students
 *A robust browser extension engineered for UIT students to automate repetitive tasks on university web portals, enhancing learning and schedule management efficiency.*
 - **Project Description:** A Manifest V3-compliant Chrome/Edge extension. Features auto-login with CAPTCHA solving, background grade checking with live notifications, drag-and-drop course scheduling via Excel parsing, and a millisecond-precision real-time automation script for competitive class registration.
 - **Duration / Team Size:** 2 Months / Solo Developer
