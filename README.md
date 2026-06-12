@@ -111,7 +111,7 @@
 ---
 
 ### 📊 Most Used Languages
-<p align="left">
+<p align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakunaruZeno&layout=compact&theme=tokyonight" alt="NakunaruZeno's Top Langs" height="180px"/>
 </p>
 
