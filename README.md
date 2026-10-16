@@ -1,4 +1,4 @@
-# Hi there, I'm Truong Thanh Dat (NakunaruZeno) 👋
+# Hi there, I'm Truong Thanh Dat (NakunaruZeno)
 
 <p align="left">
   <a href="https://github.com/NakunaruZeno">
@@ -15,7 +15,7 @@
 <summary><b>🇯🇵 日本語版はこちら</b></summary>
 <br />
 
-### 🚀 自己紹介
+### 自己紹介
 - **学歴:** ベトナム国家大学ホーチミン市校 情報通信大学 (UIT) 情報技術学科 OEP学部 在学（3年生 / 2028年10月卒業予定）
 - **私の強み:** 「論理的な思考力」と「ITを課題解決に応用する実行力」。単にコードを書くのではなく、ユーザー視点に立ち、身近な不便さをどう技術で解決するかを常に考えています。
 - **現在の目標:** フロントエンドからバックエンドまでの確かな技術力を磨き、将来的にUI/UXの視点を活かしたサービスの企画・提案から開発までを牽引すること。
@@ -23,7 +23,7 @@
 
 ---
 
-### 🧰 技術スタック & 専門スキル (Tech Stack & Skills)
+### 技術スタック & 専門スキル (Tech Stack & Skills)
 
 | カテゴリ | 技術 / ツール |
 | :--- | :--- |
@@ -37,7 +37,7 @@
 
 ---
 
-### 💻 成果物・主要プロジェクト (Featured Projects)
+### 成果物・主要プロジェクト (Featured Projects)
 
 #### 1. Forge & Furnish — モバイルAR空間一体型コマースアプリ
 *最先端の生成AI技術と空間コンピューティング（AR）を掛け合わせ、インテリア選択の「サイズ感や配置の不安」を解消する次世代シミュレーター。*
@@ -53,7 +53,7 @@
 - **開発期間 / 体制:** 2か月 / 単独開発者 (Solo Developer)
 - **担当範囲:** 企画、UI/UXデザイン（ライト/ダークモード対応ダッシュボード）、フロントエンド開発、バックグラウンドスクリプト、データスクレイピング論理の実装、テスト、リリース管理まで全工程を担当。
 - **使用技術:** JavaScript, HTML, CSS, Trello, Agile
-- **🔗 [リポジトリへのリンク](https://github.com/NakunaruZeno/UIT-One-For-All)**
+- ** [リポジトリへのリンク](https://github.com/NakunaruZeno/UIT-One-For-All)**
 
 </details>
 
@@ -63,10 +63,10 @@
 <!-- ENGLISH VERSION -->
 <!-- ========================================== -->
 <details>
-<summary><b>🌐 Click here for English version</b></summary>
+<summary><b> Click here for English version</b></summary>
 <br />
 
-### 🚀 About Me
+### About Me
 - **Education:** IT Student at University of Information Technology (UIT, VNU-HCM) | Faculty of OEP (3rd Year, Graduating Oct 2028)
 - **My Strength:** Strong logical thinking and the execution power to apply IT to practical problem-solving. I focus on understanding user needs and transforming complex real-world inconveniences into elegant software solutions.
 - **Career Goal:** To master both frontend and backend development, and leverage my UI/UX insights to lead projects from conception and planning to final deployment.
@@ -74,7 +74,7 @@
 
 ---
 
-### 🧰 Tech Stack & Expert Skills
+### Tech Stack & Expert Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -88,7 +88,7 @@
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
 #### 1. Forge & Furnish — Mobile AR Spatial E-commerce App
 *A next-generation spatial computing simulator that integrates Generative AI and AR technology to eliminate user anxiety regarding furniture dimensions and indoor placement.*
@@ -96,7 +96,7 @@
 - **Duration / Team Size:** 5 Months / Solo Developer
 - **Role & Contributions:** Handled the entire product lifecycle from ideation and requirement definition to UI/UX design (Glassmorphism, Light/Dark theme), Monorepo backend infrastructure (Prisma & AWS S3 integration), frontend development, and AR engine implementation.
 - **Tech Stack:** JavaScript, React, PostgreSQL, Prisma, AWS S3, Git, Agile
-- **🔗 [Link to Repository](https://github.com/NakunaruZeno/forge-and-furnish)**
+- **[Link to Repository](https://github.com/NakunaruZeno/forge-and-furnish)**
 
 #### 2. UIT One For All — All-in-One Browser Extension for Students
 *A robust browser extension engineered for UIT students to automate repetitive tasks on university web portals, enhancing learning and schedule management efficiency.*
@@ -104,25 +104,25 @@
 - **Duration / Team Size:** 2 Months / Solo Developer
 - **Role & Contributions:** Responsible for product planning, UI/UX design (dashboard with Light/Dark mode support), frontend architecture, background scripts, data scraping algorithms, testing, and release management.
 - **Tech Stack:** JavaScript, HTML, CSS, Trello, Agile
-- **🔗 [Link to Repository](https://github.com/NakunaruZeno/UIT-One-For-All)**
+- **[Link to Repository](https://github.com/NakunaruZeno/UIT-One-For-All)**
 
 </details>
 
 ---
 
-### 📊 Most Used Languages
+### Most Used Languages
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakunaruZeno&layout=compact&theme=tokyonight" alt="NakunaruZeno's Top Langs" height="180px"/>
 </p>
 
-### 💬 Dev Quote
+### Dev Quote
 <p align="middle">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
 
-### 📫 Connect with me
-- 💼 **LinkedIn:** [đạt-trương](www.linkedin.com/in/đạt-trương-076166416)
-- 📧 **Email:** [truongthanhdat1337@gmail.com](mailto:truongthanhdat1337@gmail.com)
-- 📘 **Facebook:** [truong.at.928295](https://www.facebook.com/truong.at.928295/)
+### Connect with me
+- **LinkedIn:** [đạt-trương](www.linkedin.com/in/đạt-trương-076166416)
+- **Email:** [truongthanhdat1337@gmail.com](mailto:truongthanhdat1337@gmail.com)
+- **Facebook:** [truong.at.928295](https://www.facebook.com/truong.at.928295/)
